@@ -1,2 +1,2 @@
 # Weather-app
-simple weather showing app build by html, CSS, javascript
+simple weather showing page build by html, CSS, javascript
